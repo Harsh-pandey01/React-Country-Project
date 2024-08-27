@@ -1,0 +1,25 @@
+.search-shimmer-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2rem;
+    min-height: 70px;  
+}
+.search-input.search-shimmer{
+height: 50px;
+background-color: rgba(0, 0, 0, 0.137);
+box-shadow: none;
+}
+.select-shimmer{
+    height: 50px;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.137);
+    border-radius: 5px;
+    
+}
+.shimmer-card{
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.137);
+    box-shadow: none;
+}
